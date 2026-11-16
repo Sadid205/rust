@@ -1,0 +1,1 @@
+/home/md-abdullah-al-sadid/works/rust_projects/my_school/target/debug/libmy_school.rlib: /home/md-abdullah-al-sadid/works/rust_projects/my_school/src/class_10/section_a.rs /home/md-abdullah-al-sadid/works/rust_projects/my_school/src/class_10.rs /home/md-abdullah-al-sadid/works/rust_projects/my_school/src/lib.rs
