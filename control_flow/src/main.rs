@@ -55,14 +55,26 @@
 //     }
 // }
 
-fn main () {
-    let a = [10, 20, 30, 40, 50];
+// fn main () {
+//     let a = [10, 20, 30, 40, 50];
 
-    // for element in a {
-    //     println!("the value is: {element}");
-    // }
-    for number in (1..=4).rev() {
-        println!("{number}!");
+//     // for element in a {
+//     //     println!("the value is: {element}");
+//     // }
+//     for number in (1..=4).rev() {
+//         println!("{number}!");
+//     }
+// }
+
+
+
+
+fn main () {
+    let config_max = Some(3u8);
+
+    match config_max {
+        Some(max) => println!("The maximum is configured to be {max}"),
+        _ => (),
     }
 }
 
