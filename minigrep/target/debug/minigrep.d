@@ -1,0 +1,1 @@
+/home/md-abdullah-al-sadid/works/rust_projects/minigrep/target/debug/minigrep: /home/md-abdullah-al-sadid/works/rust_projects/minigrep/src/lib.rs /home/md-abdullah-al-sadid/works/rust_projects/minigrep/src/main.rs
