@@ -1,0 +1,3 @@
+warning: Cargo.toml: unused manifest key: provile
+warning: `minigrep` (manifest) generated 1 warning
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.01s
