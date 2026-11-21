@@ -1,0 +1,10 @@
+/home/md-abdullah-al-sadid/works/rust_projects/async_await/target/debug/deps/idna-59dfcc4cdb30b5d1.d: /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs
+
+/home/md-abdullah-al-sadid/works/rust_projects/async_await/target/debug/deps/libidna-59dfcc4cdb30b5d1.rlib: /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs
+
+/home/md-abdullah-al-sadid/works/rust_projects/async_await/target/debug/deps/libidna-59dfcc4cdb30b5d1.rmeta: /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs /home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs
+
+/home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs:
+/home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs:
+/home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs:
+/home/md-abdullah-al-sadid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs:
